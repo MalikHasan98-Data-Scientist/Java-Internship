@@ -4,7 +4,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class CurrencyConverter {
+public class CurrencyConverter4 {
 
     // Exchange rates relative to USD (as of July 2026)
     // Source: Based on current market rates
