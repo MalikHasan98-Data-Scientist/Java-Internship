@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
-public class NumberGame {
+public class NumberGame1 {
 
     public static void main(String[] args) {
 
