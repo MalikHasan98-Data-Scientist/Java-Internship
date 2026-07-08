@@ -129,7 +129,7 @@ class ATM {
         scanner.close();
     }
 }
-public class Main {
+public class Main3 {
     public static void main(String[] args) {
         // Create a sample bank account
         BankAccount myAccount = new BankAccount(
